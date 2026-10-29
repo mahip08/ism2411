@@ -428,3 +428,6 @@ FodyWeavers.xsd
 #*.lscache
 
 .DS_Store
+*.pyo
+*.egg-info/
+.idea/
